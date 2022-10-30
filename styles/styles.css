@@ -248,6 +248,7 @@ a {
   border-radius: 4px;
   min-width: 216px;
   text-align: center;
+  border: transparent;
 }
 
 .footer {
@@ -260,9 +261,9 @@ a {
 .container {
   margin-left: auto;
   margin-right: auto;
-  padding-left: 24px;
-  padding-right: 24px;
-  width: 1218px;
+  padding-left: 15px;
+  padding-right: 15px;
+  width: 1200px;
   /*outline: 2px solid tomato;*/
 }
 
